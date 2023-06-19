@@ -6,6 +6,7 @@ respective authors.
 
 To propose a model for inclusion please submit a pull request.
 
+TensorFlow Citis https://www.tensorflow.org/about/bib
 
 ## Models
 - [autoencoder](autoencoder) -- various autoencoders
