@@ -72,6 +72,9 @@ target/
 # pyenv
 .python-version
 
+# mypy
+.mypy_cache
+
 # celery beat schedule file
 celerybeat-schedule
 
@@ -87,3 +90,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# PyCharm
+.idea/
+
+# For mac
+.DS_Store
